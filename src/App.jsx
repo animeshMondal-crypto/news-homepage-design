@@ -3,7 +3,7 @@ import Content from "./components/Content";
 import Navbar from "./components/Navbar";
 
 function App() {
-  const [bar, setSidebarOpen] = useState(false);
+  const [sidebarOpen, setSidebarOpen] = useState(false);
   return (
     <div className="w-full flex justify-center items-center sm:px-28 px-6 py-10">
       <div className="w-full flex flex-col relative">
