@@ -4,7 +4,7 @@ function Sidebar({ setSidebar, sidebar }) {
       <div className="flex justify-end mb-20">
         <img
           className="cursor-pointer"
-          src="/src/assets/images/icon-menu-close.svg"
+          src="/images/icon-menu-close.svg"
           alt="close"
           onClick={() => setSidebar(!sidebar)}
         />

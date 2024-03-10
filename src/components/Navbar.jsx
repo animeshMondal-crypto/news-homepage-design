@@ -6,10 +6,10 @@ function Navbar() {
 
   return (
     <div className="w-full flex items-center justify-between mb-8">
-      <img src="/src/assets/images/logo.svg" alt="logo" />
+      <img src="/images/logo.svg" alt="logo" />
       <img
         className="lg:hidden block cursor-pointer"
-        src="/src/assets/images/icon-menu.svg"
+        src="/images/icon-menu.svg"
         alt="menu"
         onClick={() => setSidebar(!sidebar)}
       />

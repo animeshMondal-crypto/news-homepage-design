@@ -4,12 +4,12 @@ function Content() {
       <div className="lg:col-span-2 row-start-1">
         <img
           className="md:block hidden"
-          src="/src/assets/images/image-web-3-desktop.jpg"
+          src="/images/image-web-3-desktop.jpg"
           alt="img"
         />
         <img
           className="sm:hidden block"
-          src="/src/assets/images/image-web-3-mobile.jpg"
+          src="/images/image-web-3-mobile.jpg"
           alt="img"
         />
       </div>
@@ -58,7 +58,7 @@ function Content() {
       <div className="flex gap-5">
         <img
           className="sm:h-44 h-32"
-          src="/src/assets/images/image-retro-pcs.jpg"
+          src="/images/image-retro-pcs.jpg"
           alt="img"
         />
         <div className="flex flex-col sm:gap-3">
@@ -74,7 +74,7 @@ function Content() {
       <div className="flex gap-5">
         <img
           className="sm:h-44 h-32"
-          src="/src/assets/images/image-top-laptops.jpg"
+          src="/images/image-top-laptops.jpg"
           alt="img"
         />
         <div className="flex flex-col sm:gap-3">
@@ -90,7 +90,7 @@ function Content() {
       <div className="flex gap-5">
         <img
           className="sm:h-44 h-32"
-          src="/src/assets/images/image-gaming-growth.jpg"
+          src="/images/image-gaming-growth.jpg"
           alt="img"
         />
         <div className="flex flex-col sm:gap-3">
